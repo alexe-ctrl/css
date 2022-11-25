@@ -85,7 +85,7 @@ thead {
 }
 
 .com {
-    background-color: blue !important;
+    background-color: #0275d8 !important;
 }
 
 .remove-msg {
@@ -127,7 +127,7 @@ thead {
 
 .complete {
     background: #cce4ee;
-    color: blue;
+    color: #0275d8;
     width: 100%;
     font-size: 30px;
     padding: 5px;
