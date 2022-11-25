@@ -262,3 +262,6 @@ thead {
     width: auto;
     vertical-align: middle;
 }
+
+.check {
+    float:right;
