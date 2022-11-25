@@ -84,6 +84,10 @@ thead {
     background-color: #dc3545 !important;
 }
 
+.com {
+    background-color: #2d5f74 !important;
+}
+
 .remove-msg {
     font-size: larger;
     margin: 20px;
@@ -116,6 +120,14 @@ thead {
  .removed {
     background: #bdbdbd;
     color: rgb(75, 74, 74);
+    width: 100%;
+    font-size: 30px;
+    padding: 5px;
+ }
+
+.complete {
+    background: #cce4ee;
+    color: #2d5f74;
     width: 100%;
     font-size: 30px;
     padding: 5px;
