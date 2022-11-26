@@ -94,6 +94,11 @@ label {
     border-left-color: #742f2d;
 }
 
+.tran {
+    border-left-width: 10px;
+    border-left-color: #ff8c00;
+}
+
 .penhead {
     color: #742f2d;
     font-weight: 500;
@@ -105,6 +110,11 @@ label {
 
 .stdhead {
     color: #2d5f74;
+    font-weight: 500;
+}
+
+.tranhead {
+    color: #ff8c00;
     font-weight: 500;
 }
 
@@ -137,8 +147,16 @@ label {
     font-weight: 500;
 }
 
+.view-tran {
+    background: none;
+    border: none;
+    width: 50%;
+    color: #ff8c00;
+    font-weight: 500;
+}
+
 .back-lbl {
-    padding-right: 3rem;
+    padding-right: 1rem;
     padding-left: 1rem;
     cursor: pointer;
 }
